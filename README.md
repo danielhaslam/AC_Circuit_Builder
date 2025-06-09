@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/GkbsjKcA)
-
 This program allows the user to incrementally build an AC circuits, comprised of inductors, capacitors and resistors. These can be arranged in series, or parallel, with the circuit that already exists.
 
 ###
