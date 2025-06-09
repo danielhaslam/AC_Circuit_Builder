@@ -33,11 +33,11 @@ R2 000 001 2 P
 C1 000 001 5.2 P
 R3 001 002 13 S
 
-- Row 1: provides a unique identifier for the component, the letter representing the circuit component (R = resistor, L = inductor, C = capacitor).
-- Row 2: provides a beginning node for the component - this is of use in SPICE netlists.
-- Row 3: provides a beginning node for the component - this is of use in SPICE netlists.
-- Row 4: provides a parameter value for the component (units: resistor: Ohms, inductor: Henries, capacitor: Farads).
-- Row 5: provides the configuration (S = series, P = parallel), relative to all entries above it.
+- Column 1: provides a unique identifier for the component, the letter representing the circuit component (R = resistor, L = inductor, C = capacitor).
+- Column 2: provides a beginning node for the component - this is of use in SPICE netlists.
+- Column 3: provides a beginning node for the component - this is of use in SPICE netlists.
+- Column 4: provides a parameter value for the component (units: resistor: Ohms, inductor: Henries, capacitor: Farads).
+- Column 5: provides the configuration (S = series, P = parallel), relative to all entries above it.
 
 Circuit impedance arising from it: 13.0007 - 0.0305906i (13.0007 magnitude) Ohms. Phase shift: ~0 radians.
 
