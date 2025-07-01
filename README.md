@@ -16,11 +16,11 @@ where ω denotes the angular frequency of the AC source, $R$ the resistance, $C$
 
 Then, when adding the impedances of different components, adding in series goes as:
 
-$Z_{\text{tot}} = Z_1 + Z_2 + Z_3 + \ldots $ ,
+$Z_{tot} = Z_1 + Z_2 + Z_3 + \ldots $ 
 
 while adding in parallel goes as: 
 
-$\frac{1}{Z_{\text{tot}}} = \frac{1}{Z_1} + \frac{1}{Z_2} + \frac{1}{Z_3} + \ldots $
+$\frac{1}{Z_{tot}} = \frac{1}{Z_1} + \frac{1}{Z_2} + \frac{1}{Z_3} + \ldots $
 
 These equations serve as the basis by which circuit impedance is calculated. 
 
